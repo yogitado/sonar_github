@@ -10,7 +10,7 @@
   - Assigning weights to tasks
   - file uploads
  -added - project sharing is easy.
-
+resat
 
 
 #Installation
