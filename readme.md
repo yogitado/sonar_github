@@ -9,7 +9,7 @@
   - Task creation 
   - Assigning weights to tasks
   - file uploads
- -added - project sharing is easy.14 ATM
+ -added - project sharing is easy.18 ATM
 
 
 #Installation
