@@ -9,8 +9,7 @@
   - Task creation 
   - Assigning weights to tasks
   - file uploads
- -added - project sharing is easy.
-resat
+ -added - project sharing is easy.17
 
 
 #Installation
